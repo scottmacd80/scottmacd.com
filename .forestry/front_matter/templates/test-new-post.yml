@@ -13,3 +13,5 @@ fields:
   default: []
   label: Type
   description: Post type
+pages:
+- content/posts/test-forestry-cms-post.md
